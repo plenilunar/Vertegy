@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"K",
+				"key"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"month",
+				"monthNumber"
+			],
+			[
+				"tit",
+				"sTitle"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"pcins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pacins",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: List Packages"
+			],
+			[
+				"theme",
+				"QuickThemes: next"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Add Channel"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ianmccarthy/Documents/Work/Vertegy/siteFiles/index.html",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch05/05_01/post.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/hanselandpetal/index.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch04/04_09/in_array.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch04/04_09/in_array_final.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch04/04_06/foreach_key.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch04/04_07/associative.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch04/04_08/foreach_assoc.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch04/04_08/foreach_assoc_final.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch04/04_02/examine_array.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/hanselandpetal/includes/footer.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch03/03_03/timezone_final.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/hanselandpetal/includes/header.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/hanselandpetal/includes/nav.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/hanselandpetal/includes/head.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/hanselandpetal/order.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/hanselandpetal/arrangements.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/hanselandpetal/bouquet.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/hanselandpetal/care/orchids.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/hanselandpetal/designers.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/hanselandpetal/header.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch01/01_07/comments.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch01/01_06/functions.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch01/01_04/variables.php",
+		"/Applications/MAMP/htdocs/PHP4Designers/Exercise Files/exercises/ch01/01_02/embed.php",
+		"/Users/ianmccarthy/Library/Application Support/Sublime Text 3/Packages/User/ThemrFavorites.sublime-settings",
+		"/Users/ianmccarthy/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/Bootstrap Test/about.php",
+		"/Users/ianmccarthy/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/php/article-aboutTheVenue.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/index.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/php/aside-lastyear.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/js/myscript.js",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/php/aside-register.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/register.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/php/header.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/js/_myscript.js",
+		"/Applications/MAMP/htdocs/Bootstrap Test/php/aside-lastyear.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/php/snippet-artistPhotogrid.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/php/article_AboutTheArtists.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/php/article_intro.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/php/footer.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/php/snippetCarousel.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/snippet-artistPhotogrid.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/php/article_About_The_Artists.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/article_about_the_artists.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/article_about_the_artists",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/php/article_index.php",
+		"/Users/ianmccarthy/Library/Application Support/Sublime Text 3/Packages/User/Ian'sBlue.sublime-settings",
+		"/Users/ianmccarthy/Library/Application Support/Sublime Text 3/Packages/User/Ian'sBlueTheme.sublime-settings",
+		"/Users/ianmccarthy/Library/Application Support/Sublime Text 3/Packages/User/CursorRuler.sublime-settings",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/php/article_about.php",
+		"/Users/ianmccarthy/Library/Application Support/Sublime Text 3/Packages/User/sublime-API-Completions-Package.sublime-settings",
+		"/Users/ianmccarthy/Library/Application Support/Sublime Text 3/Packages/Sublime-Better-Completion/sublime-API-Completions-Package.sublime-settings",
+		"/Users/ianmccarthy/Library/Application Support/Sublime Text 3/Packages/User/QuickThemes.sublime-settings",
+		"/Applications/MAMP/htdocs/Bootstrap Test/venueTravel.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/less/theme.less",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/js/carousel.js",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/js/collapse.js",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/less/list-group.less",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/less/forms.less",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/less/component-animations.less",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/less/jumbotron.less",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/less/responsive-utilities.less",
+		"/Applications/MAMP/htdocs/Bootstrap Test/artists.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/privacyPolicy.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/schedule.php",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/less/_mystyles.less",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/components/js/_bootstrap.js",
+		"/Applications/MAMP/htdocs/Bootstrap Test/_/css/bootstrap.css",
+		"/Users/ianmccarthy/Library/Application Support/Sublime Text 3/Packages/QuickThemes/QuickThemes.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"_red",
+			"red",
+			"section",
+			"yellow",
+			"pink"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
